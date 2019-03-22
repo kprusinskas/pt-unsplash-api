@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pt-unsplash-api/precache-manifest.eb43143e1c209952aac6bcce4de0071b.js"
+  "/pt-unsplash-api/precache-manifest.14f714d0b0d3797783e5913761d465fb.js"
 );
 
 workbox.clientsClaim();

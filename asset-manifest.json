@@ -1,13 +1,13 @@
 {
   "main.css": "/pt-unsplash-api/static/css/main.15b19f50.chunk.css",
-  "main.js": "/pt-unsplash-api/static/js/main.38e71e76.chunk.js",
-  "main.js.map": "/pt-unsplash-api/static/js/main.38e71e76.chunk.js.map",
+  "main.js": "/pt-unsplash-api/static/js/main.1cdd8683.chunk.js",
+  "main.js.map": "/pt-unsplash-api/static/js/main.1cdd8683.chunk.js.map",
   "runtime~main.js": "/pt-unsplash-api/static/js/runtime~main.5ce92dd7.js",
   "runtime~main.js.map": "/pt-unsplash-api/static/js/runtime~main.5ce92dd7.js.map",
   "static/js/2.d519b009.chunk.js": "/pt-unsplash-api/static/js/2.d519b009.chunk.js",
   "static/js/2.d519b009.chunk.js.map": "/pt-unsplash-api/static/js/2.d519b009.chunk.js.map",
   "index.html": "/pt-unsplash-api/index.html",
-  "precache-manifest.eb43143e1c209952aac6bcce4de0071b.js": "/pt-unsplash-api/precache-manifest.eb43143e1c209952aac6bcce4de0071b.js",
+  "precache-manifest.14f714d0b0d3797783e5913761d465fb.js": "/pt-unsplash-api/precache-manifest.14f714d0b0d3797783e5913761d465fb.js",
   "service-worker.js": "/pt-unsplash-api/service-worker.js",
   "static/css/main.15b19f50.chunk.css.map": "/pt-unsplash-api/static/css/main.15b19f50.chunk.css.map"
 }
